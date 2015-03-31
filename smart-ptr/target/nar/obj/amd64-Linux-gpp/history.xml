@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="g++ 4.8 x86_64-suse-linux -std=c++11 -Wall -Wno-long-long -Wpointer-arith -Wconversion -fPIC -c -fPIC -DLinux -DGNU_GCC -Ismart-ptr/target/nar/exception-1.5.7-noarch/include -Ismart-ptr/target/nar/config-1.5.7-noarch/include -Ismart-ptr/target/nar/core-1.5.7-noarch/include -Ismart-ptr/src/main/include">
+      <target file="sp_debug_hooks.o" lastModified="14c6f4f0968">
+         <source file="../../../../src/main/c++/sp_debug_hooks.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="sp_collector.o" lastModified="14c6f4f0968">
+         <source file="../../../../src/main/c++/sp_collector.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+   </processor>
+</history>

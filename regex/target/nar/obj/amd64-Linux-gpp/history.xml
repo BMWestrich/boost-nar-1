@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="g++ 4.8 x86_64-suse-linux -std=c++11 -Wall -Wno-long-long -Wpointer-arith -Wconversion -fPIC -c -fPIC -DLinux -DGNU_GCC -Iregex/src/main/include">
+      <target file="c_regex_traits.o" lastModified="14c6f4f28a8">
+         <source file="../../../../src/main/c++/regex/c_regex_traits.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="w32_regex_traits.o" lastModified="14c6f4f3460">
+         <source file="../../../../src/main/c++/regex/w32_regex_traits.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="instances.o" lastModified="14c6f4f3460">
+         <source file="../../../../src/main/c++/regex/instances.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="wide_posix_api.o" lastModified="14c6f4f3848">
+         <source file="../../../../src/main/c++/regex/wide_posix_api.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="regex_traits_defaults.o" lastModified="14c6f4f3848">
+         <source file="../../../../src/main/c++/regex/regex_traits_defaults.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="static_mutex.o" lastModified="14c6f4f2c90">
+         <source file="../../../../src/main/c++/regex/static_mutex.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="fileiter.o" lastModified="14c6f4f2c90">
+         <source file="../../../../src/main/c++/regex/fileiter.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="wc_regex_traits.o" lastModified="14c6f4f3460">
+         <source file="../../../../src/main/c++/regex/wc_regex_traits.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="winstances.o" lastModified="14c6f4f3848">
+         <source file="../../../../src/main/c++/regex/winstances.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="icu.o" lastModified="14c6f4f24c0">
+         <source file="../../../../src/main/c++/regex/icu.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="usinstances.o" lastModified="14c6f4f28a8">
+         <source file="../../../../src/main/c++/regex/usinstances.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="regex.o" lastModified="14c6f4f2c90">
+         <source file="../../../../src/main/c++/regex/regex.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="regex_raw_buffer.o" lastModified="14c6f4f2c90">
+         <source file="../../../../src/main/c++/regex/regex_raw_buffer.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="posix_api.o" lastModified="14c6f4f3460">
+         <source file="../../../../src/main/c++/regex/posix_api.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="cpp_regex_traits.o" lastModified="14c6f4f28a8">
+         <source file="../../../../src/main/c++/regex/cpp_regex_traits.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="regex_debug.o" lastModified="14c6f4f28a8">
+         <source file="../../../../src/main/c++/regex/regex_debug.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="cregex.o" lastModified="14c6f4f3460">
+         <source file="../../../../src/main/c++/regex/cregex.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+   </processor>
+</history>

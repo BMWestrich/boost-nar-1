@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="g++ 4.8 x86_64-suse-linux -std=c++11 -Wall -Wno-long-long -Wpointer-arith -Wconversion -fPIC -c -fPIC -DLinux -DGNU_GCC -Isystem/target/nar/core-1.5.7-noarch/include -Isystem/target/nar/config-1.5.7-noarch/include -Isystem/target/nar/predef-1.5.7-noarch/include -Isystem/target/nar/utility-1.5.7-noarch/include -Isystem/src/main/include">
+      <target file="error_code.o" lastModified="14c6f4eea28">
+         <source file="../../../../src/main/c++/error_code.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+   </processor>
+</history>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="g++ 4.8 x86_64-suse-linux -std=c++11 -Wall -Wno-long-long -Wpointer-arith -Wconversion -fPIC -c -fPIC -DLinux -DGNU_GCC -Ifilesystem/target/nar/config-1.5.7-noarch/include -Ifilesystem/target/nar/core-1.5.7-noarch/include -Ifilesystem/target/nar/system-1.5.7-noarch/include -Ifilesystem/target/nar/predef-1.5.7-noarch/include -Ifilesystem/target/nar/utility-1.5.7-noarch/include -Ifilesystem/target/nar/detail-1.5.7-noarch/include -Ifilesystem/target/nar/type-traits-1.5.7-noarch/include -Ifilesystem/target/nar/mpl-1.5.7-noarch/include -Ifilesystem/target/nar/preprocessor-1.5.7-noarch/include -Ifilesystem/target/nar/iterator-1.5.7-noarch/include -Ifilesystem/target/nar/smart-ptr-1.5.7-noarch/include -Ifilesystem/target/nar/exception-1.5.7-noarch/include -Ifilesystem/target/nar/io-1.5.7-noarch/include -Ifilesystem/target/nar/functional-1.5.7-noarch/include -Ifilesystem/target/nar/range-1.5.7-noarch/include -Ifilesystem/src/main/include">
+      <target file="portability.o" lastModified="14c6f4f1cf0">
+         <source file="../../../../src/main/c++/filesystem/portability.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="utf8_codecvt_facet.o" lastModified="14c6f4f1908">
+         <source file="../../../../src/main/c++/filesystem/utf8_codecvt_facet.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="unique_path.o" lastModified="14c6f4f1cf0">
+         <source file="../../../../src/main/c++/filesystem/unique_path.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="path_traits.o" lastModified="14c6f4f1cf0">
+         <source file="../../../../src/main/c++/filesystem/path_traits.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="windows_file_codecvt.o" lastModified="14c6f4f1908">
+         <source file="../../../../src/main/c++/filesystem/windows_file_codecvt.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="path.o" lastModified="14c6f4f1cf0">
+         <source file="../../../../src/main/c++/filesystem/path.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="codecvt_error_category.o" lastModified="14c6f4f1cf0">
+         <source file="../../../../src/main/c++/filesystem/codecvt_error_category.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+      <target file="operations.o" lastModified="14c6f4f1cf0">
+         <source file="../../../../src/main/c++/filesystem/operations.cpp" lastModified="14c6f4e9ff0"/>
+      </target>
+   </processor>
+</history>

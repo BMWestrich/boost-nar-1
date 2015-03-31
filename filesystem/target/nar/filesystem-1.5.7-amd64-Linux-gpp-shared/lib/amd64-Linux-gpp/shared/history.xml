@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.8 -shared -L/media/slesdisk/westrichb/MyBoostNar/boost-nar/filesystem/target/nar/system-1.5.7-amd64-Linux-gpp-shared/lib/amd64-Linux-gpp/shared -lsystem-1.5.7 -L/media/slesdisk/westrichb/MyBoostNar/boost-nar/filesystem/target/nar/smart-ptr-1.5.7-amd64-Linux-gpp-shared/lib/amd64-Linux-gpp/shared -lsmart-ptr-1.5.7 -L/media/slesdisk/westrichb/MyBoostNar/boost-nar/filesystem/target/nar/exception-1.5.7-amd64-Linux-gpp-shared/lib/amd64-Linux-gpp/shared -lexception-1.5.7 -fexceptions -lstdc++">
+      <target file="libfilesystem-1.5.7.so" lastModified="14c6f4f20d8">
+         <source file="../../../../system-1.5.7-amd64-Linux-gpp-shared/lib/amd64-Linux-gpp/shared/libsystem-1.5.7.so" lastModified="14c6f4ef5e0"/>
+         <source file="../../../../smart-ptr-1.5.7-amd64-Linux-gpp-shared/lib/amd64-Linux-gpp/shared/libsmart-ptr-1.5.7.so" lastModified="14c6f4f1520"/>
+         <source file="../../../../exception-1.5.7-amd64-Linux-gpp-shared/lib/amd64-Linux-gpp/shared/libexception-1.5.7.so" lastModified="14c6f4f0d50"/>
+         <source file="../../../../obj/amd64-Linux-gpp/codecvt_error_category.o" lastModified="14c6f4f1cf0"/>
+         <source file="../../../../obj/amd64-Linux-gpp/operations.o" lastModified="14c6f4f1cf0"/>
+         <source file="../../../../obj/amd64-Linux-gpp/path.o" lastModified="14c6f4f1cf0"/>
+         <source file="../../../../obj/amd64-Linux-gpp/path_traits.o" lastModified="14c6f4f1cf0"/>
+         <source file="../../../../obj/amd64-Linux-gpp/portability.o" lastModified="14c6f4f1cf0"/>
+         <source file="../../../../obj/amd64-Linux-gpp/unique_path.o" lastModified="14c6f4f1cf0"/>
+         <source file="../../../../obj/amd64-Linux-gpp/utf8_codecvt_facet.o" lastModified="14c6f4f1908"/>
+         <source file="../../../../obj/amd64-Linux-gpp/windows_file_codecvt.o" lastModified="14c6f4f1908"/>
+      </target>
+   </processor>
+</history>

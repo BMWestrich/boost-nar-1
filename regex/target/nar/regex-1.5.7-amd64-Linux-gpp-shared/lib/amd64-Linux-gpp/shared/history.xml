@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.8 -shared -fexceptions -lstdc++">
+      <target file="libregex-1.5.7.so" lastModified="14c6f4f6340">
+         <source file="../../../../obj/amd64-Linux-gpp/c_regex_traits.o" lastModified="14c6f4f28a8"/>
+         <source file="../../../../obj/amd64-Linux-gpp/cpp_regex_traits.o" lastModified="14c6f4f28a8"/>
+         <source file="../../../../obj/amd64-Linux-gpp/cregex.o" lastModified="14c6f4f3460"/>
+         <source file="../../../../obj/amd64-Linux-gpp/fileiter.o" lastModified="14c6f4f2c90"/>
+         <source file="../../../../obj/amd64-Linux-gpp/icu.o" lastModified="14c6f4f24c0"/>
+         <source file="../../../../obj/amd64-Linux-gpp/instances.o" lastModified="14c6f4f3460"/>
+         <source file="../../../../obj/amd64-Linux-gpp/posix_api.o" lastModified="14c6f4f3460"/>
+         <source file="../../../../obj/amd64-Linux-gpp/regex.o" lastModified="14c6f4f2c90"/>
+         <source file="../../../../obj/amd64-Linux-gpp/regex_debug.o" lastModified="14c6f4f28a8"/>
+         <source file="../../../../obj/amd64-Linux-gpp/regex_raw_buffer.o" lastModified="14c6f4f2c90"/>
+         <source file="../../../../obj/amd64-Linux-gpp/regex_traits_defaults.o" lastModified="14c6f4f3848"/>
+         <source file="../../../../obj/amd64-Linux-gpp/static_mutex.o" lastModified="14c6f4f2c90"/>
+         <source file="../../../../obj/amd64-Linux-gpp/usinstances.o" lastModified="14c6f4f28a8"/>
+         <source file="../../../../obj/amd64-Linux-gpp/w32_regex_traits.o" lastModified="14c6f4f3460"/>
+         <source file="../../../../obj/amd64-Linux-gpp/wc_regex_traits.o" lastModified="14c6f4f3460"/>
+         <source file="../../../../obj/amd64-Linux-gpp/wide_posix_api.o" lastModified="14c6f4f3848"/>
+         <source file="../../../../obj/amd64-Linux-gpp/winstances.o" lastModified="14c6f4f3848"/>
+      </target>
+   </processor>
+</history>

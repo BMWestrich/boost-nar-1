@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.8 -shared -L/media/slesdisk/westrichb/MyBoostNar/boost-nar/smart-ptr/target/nar/exception-1.5.7-amd64-Linux-gpp-shared/lib/amd64-Linux-gpp/shared -lexception-1.5.7 -fexceptions -lstdc++">
+      <target file="libsmart-ptr-1.5.7.so" lastModified="14c6f4f1138">
+         <source file="../../../../exception-1.5.7-amd64-Linux-gpp-shared/lib/amd64-Linux-gpp/shared/libexception-1.5.7.so" lastModified="14c6f4f0d50"/>
+         <source file="../../../../obj/amd64-Linux-gpp/sp_collector.o" lastModified="14c6f4f0968"/>
+         <source file="../../../../obj/amd64-Linux-gpp/sp_debug_hooks.o" lastModified="14c6f4f0968"/>
+      </target>
+   </processor>
+</history>

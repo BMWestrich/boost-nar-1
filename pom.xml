@@ -1,0 +1,63 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.boost</groupId>
+    <artifactId>parent</artifactId>
+    <version>1.5.7</version>
+    <packaging>pom</packaging>
+
+    <name>Boost :: Parent</name>
+    <description>Boost stuff</description>
+
+    <modules>
+        <module>core</module>
+        <module>system</module>
+        <module>predef</module>
+        <module>config</module>
+        <module>utility</module>
+        <module>filesystem</module>
+        <module>detail</module>
+        <module>type-traits</module>
+        <module>mpl</module>
+        <module>preprocessor</module>
+        <module>iterator</module>
+        <module>smart-ptr</module>
+        <module>exception</module>
+        <module>io</module>
+        <module>functional</module>
+        <module>range</module>
+	<module>regex</module>
+    </modules>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>com.github.maven-nar</groupId>
+                <artifactId>nar-maven-plugin</artifactId>
+                <version>3.2.2</version>
+                <extensions>true</extensions>
+                <configuration>
+                    <cpp>
+                        <name>g++</name>
+                        <debug>false</debug>
+                        <includes>
+                            <include>**/*.hpp</include>
+                            <include>**/*.h</include>
+                            <include>**/*.cpp</include>
+                            <include>**/*.c</include>
+                        </includes>
+                        <options>
+                            <option>-std=c++11</option>
+                        </options>
+                    </cpp>
+
+                    <linker>
+                        <name>g++</name>
+                    </linker>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
+
